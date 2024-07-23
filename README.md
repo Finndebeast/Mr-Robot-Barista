@@ -1,3 +1,3 @@
 # Mr-Robot-Barista
 
-Very cool barista robot
+Very cool barista robot.
