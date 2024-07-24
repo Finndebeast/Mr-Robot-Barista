@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 27 14:23:32 2024
 
-@author: Finn de Boer
+@author: Finndebeast
 """
 import sys
 
